@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "fun": "github:neonfraxjr/fun#master"
+        "2.3": "github:neonfraxjr/23#05ef654b7a41833b19acf04415b5bb284607893f"
     },
     "files": [
         "main.blocks",

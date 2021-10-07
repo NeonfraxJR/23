@@ -9,6 +9,7 @@ input.onButtonPressed(Button.A, function () {
     x = x / 4
     radio.sendNumber(x)
     basic.showString("Hello!")
+    basic.showString("Hello!")
 })
 input.onButtonPressed(Button.B, function () {
 	
