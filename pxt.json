@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "fun": "github:neonfraxjr/fun#master"
     },
     "files": [
         "main.blocks",
